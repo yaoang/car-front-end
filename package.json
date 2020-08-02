@@ -1,0 +1,22 @@
+{
+  "name": "car-front-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaoang/car-front-end.git"
+  },
+  "author": "Ang Yao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaoang/car-front-end/issues"
+  },
+  "homepage": "https://github.com/yaoang/car-front-end#readme",
+  "dependencies": {
+    "jest": "^26.1.0"
+  }
+}
